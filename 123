@@ -1,0 +1,16 @@
+git clone https://github.com/Stasya81/TeamGitProject.git
+cd TeamGitProject
+
+
+git checkout -b paa
+
+
+
+public int Add(int a, int b)
+{
+    return a + b;
+}
+
+
+
+
